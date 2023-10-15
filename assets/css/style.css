@@ -263,6 +263,7 @@ a:hover {
 
 /*------/ Ico Circle /------*/
 .ico-circle {
+
   height: 100px;
   width: 100px;
   font-size: 2rem;
@@ -1461,4 +1462,9 @@ footer .credits {
 
 footer .credits a {
   color: #fff;
+}
+
+.resume-btn{
+  display: flex;
+  justify-content: center;
 }
